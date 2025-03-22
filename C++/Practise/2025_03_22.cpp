@@ -48,7 +48,7 @@ class R
         int area, per;
         
 
-};
+}; 
 
 int main()
 {
