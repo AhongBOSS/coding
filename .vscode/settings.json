@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "string.h": "c",
-        "168.C": "cpp"
-    }
+        "168.C": "cpp",
+        "new": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
