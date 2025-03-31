@@ -22,7 +22,7 @@ public:
                     return strs[0].substr(0, i);
                 }
             }
-        }
+        } 
         
         return strs[0];
     }
