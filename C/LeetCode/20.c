@@ -23,7 +23,7 @@ bool isValid(char* s)
             return false;
         }
     }
-    return true;
+    return a == 0;
 
 
 } 
